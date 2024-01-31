@@ -1,5 +1,13 @@
 World Bank Data
 
+
+
+
+https://github.com/Khan-Ramsha/Data-Analytics/assets/129587133/dbe25ae2-c9d8-47de-bae3-afa2744f0dd9
+
+
+
+
 In 2006, Hans Rosling gave a TED talk titled The best stats you've ever seen.(Must watch this video before working on the project). At the beginning of the talk, he showed an animation he made to debunk some misconceptions about today's world.
 You can watch the Ted talk here: 
 https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
