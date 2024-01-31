@@ -7,20 +7,29 @@ https://github.com/Khan-Ramsha/Data-Analytics/assets/129587133/74145cad-d609-4c5
 
 
 In 2006, Hans Rosling gave a TED talk titled The best stats you've ever seen.(Must watch this video before working on the project). At the beginning of the talk, he showed an animation he made to debunk some misconceptions about today's world.
+
+
 You can watch the Ted talk here: 
 https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen
 
 I enjoyed seeing this visualisation and I want you to reproduce it with the tools you know (i.e. Python, Pandas, Numpy, Seaborn and Matplotlib). 
+
+
 Dataset Information
+
+
 ●	Life expectancy at birth: The number of years a newborn would live if the patterns of mortality at the time of birth remain the same throughout his life.
 
 ●	Fertility rate: Number of children a woman would give birth to during her childbearing years. 
 
 ●	Country population: Total number of residents regardless of legal status or citizenship (midyear estimates)
 Hans Rosling built this animation, after testing his students on global health, he realised that they still thought that the world was divided in two:
+
 ●	The Western world: low fertility rate and high life expectancy
+
 ●	The third world: high fertility rate and low life expectancy
 There will be some differences between the original visualisation and the one you are going to build:
+
 ●	More data:  The talk was made in 2006 with data from 1962 to 2003. We will use data from 1960 to 2016.
 
 ●	Regions: The original visualisation has five regions. We will keep the regions from the source data (i.e. seven regions).
@@ -34,8 +43,11 @@ In this task, you have to build the same animated graph as you watched in the vi
 3.	Handle Missing Values
 4.	Data Types
 5.	Merge DataFrames (If required for any visualization)
+6.	
 So far we have performed the following steps on a few datasets so we are not mentioning minute details for the above task.
+
 In case you want to perform basic visualisations apart from the animated one, consider the below pointers:
+
 
 1.	Population Trends (Years vs Population)(Line Graph)
 2.	Fertility rate distribution 
