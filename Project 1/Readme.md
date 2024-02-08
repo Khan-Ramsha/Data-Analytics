@@ -30,3 +30,5 @@ Document the steps taken to create the dashboard, explaining design choices and 
 
 # Drive Link here :- 
 https://docs.google.com/spreadsheets/d/1FO7MT6oQ9JhDY_wViz_MFnhZK_oXPKdOIArzzI4vuR0/edit?usp=sharing
+
+Overall, the BikeBuyer Insights Dashboard provides a comprehensive overview of bike buyers' behavior and preferences, enabling informed decision-making for marketing and sales strategies.
