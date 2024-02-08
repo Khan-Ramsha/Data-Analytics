@@ -1,4 +1,5 @@
-# Data-Analytics (using google sheets)
+# BikeBuyer Insights Dashboard (using google sheets)
+
 ## Overview
 Developing a data analysis dashboard within Google Sheets to delve into and illustrate insights regarding the behavior and preferences of individuals purchasing bikes. The dataset utilized for examination encompasses information on 1001 users, encompassing diverse attributes like marital status, gender, income, and the decision to purchase a bike.
 ## Project Steps
