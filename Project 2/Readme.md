@@ -35,6 +35,7 @@ VSCode Download
 Jupyter Notebook Installation Guide
 
 👉 Challenge Yourself:
-Try to solve the puzzle online: : https://lnkd.in/diw5RZ8k
+Try to solve the puzzle online: : [https://lnkd.in/diw5RZ8k](https://www.neok12.com/games/leap-froggies/leap-froggies.htm)
+
 🚀 Explore My Code:
-Check out the logic implemented in Python on Google Colab: https://lnkd.in/dyhGyaiE
+Check out the logic implemented in Python on Google Colab: https://colab.research.google.com/drive/1GNntKKY-1Ff1BJgupEUrLp-01jVH7vDj?usp=sharing
