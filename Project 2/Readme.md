@@ -30,9 +30,9 @@ Document your code, providing explanations for each function and variable.
 Include any external references or inspirations for your game.
 Add instructions on how to play the game and any special features or controls.
 ## Resources
-Python Official Website
-VSCode Download
-Jupyter Notebook Installation Guide
+Python Official Website,
+VSCode Download,
+Jupyter Notebook Installation Guide.
 
 👉 Challenge Yourself:
 
