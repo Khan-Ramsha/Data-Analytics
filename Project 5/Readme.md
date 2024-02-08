@@ -1,4 +1,4 @@
-🔍🕵️‍♂️ ## SQL Detective Challenge & Web Scraping Adventure 🌐🔍
+# 🔍🕵️‍♂️  SQL Detective Challenge & Web Scraping Adventure 🌐🔍
 ## Introduction
 
 Welcome to the SQL Detective Challenge and Web Scraping Adventure! In this project, you will step into the shoes of a detective to solve a murder mystery using SQL, while also embarking on a web scraping adventure to collect data for analysis.
