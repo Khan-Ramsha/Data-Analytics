@@ -43,7 +43,7 @@ In this task, you have to build the same animated graph as you watched in the vi
 3.	Handle Missing Values
 4.	Data Types
 5.	Merge DataFrames (If required for any visualization)
-6.	
+
 So far we have performed the following steps on a few datasets so we are not mentioning minute details for the above task.
 
 In case you want to perform basic visualisations apart from the animated one, consider the below pointers:
