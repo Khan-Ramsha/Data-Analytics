@@ -1,4 +1,3 @@
-Sure! Below is a template for your README file with added emojis and an exciting format:
 
 ---
 
