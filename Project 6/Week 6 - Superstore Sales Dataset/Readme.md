@@ -1,4 +1,3 @@
-Certainly! Here's an exciting README template for your Superstore Sales Data Analysis project:
 
 ---
 
