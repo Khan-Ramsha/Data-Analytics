@@ -1,4 +1,4 @@
-# Data Analytics Projects
+# 🔍 Exploratory Data Analysis 📊📈📉
 
 Welcome to the Week 6 Projects repository! This repository contains two exciting projects that delve into different domains of data analytics: Superstore Sales Exploration and Indian Cars Data Analysis.
 
