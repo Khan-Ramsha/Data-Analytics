@@ -26,4 +26,4 @@
   
 - Tailor marketing campaigns to highlight app features most relevant to user preferences.
 
-🚀 Let's connect and discuss how these insights can drive impactful decisions for your Fitbit marketing strategy! 📈 #Fitbit #DataAnalysis #MarketingStrategy #FitnessTech
+Google Colab Link :- https://colab.research.google.com/drive/10OaZSoZSTZSTsrE2PrArhpJPf64tnS5Q?usp=sharing
