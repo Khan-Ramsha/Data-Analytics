@@ -1,6 +1,7 @@
-# Project 8 - Capstone Project : Fitbit Consumer Behavior Analysis
+# Project 8 - Capstone Project : Fitbit Consumer Behavior Analysis 🏋️‍♂️📊
 
 🚀  Excited to share insights from analyzing Fitbit Fitness Tracker App data! 📊 As part of a dynamic project, I delved into various aspects of user activity and behavior. Here's a snapshot of what I discovered :-
+
 
 📈 **Trends Identified:** Explored daily, hourly, and minute-level activity patterns, uncovering peaks and troughs in user engagement. Identified common trends in sleep duration, physical activity, and heart rate fluctuations.
 
